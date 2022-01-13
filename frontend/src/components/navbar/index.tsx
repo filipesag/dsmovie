@@ -21,3 +21,4 @@ function navbar() {
 }
 
 export default navbar;
+export{}
