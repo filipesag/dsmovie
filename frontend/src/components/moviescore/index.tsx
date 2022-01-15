@@ -16,3 +16,4 @@ function MovieScore() {
 }
 
 export default MovieScore;
+export {};
