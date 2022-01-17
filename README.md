@@ -34,7 +34,7 @@ I developed this application during Spring React Week Bootcamp by DevSuperior (h
 - JavaScript/TypeScript
 - ReactJS
 
-## Production Deployment
+## Application Deployment
 
 - Frontend: Netlify
 - Backend: Heroku
