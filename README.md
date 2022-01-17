@@ -21,14 +21,14 @@ I developed this application during Spring React Week Bootcamp by DevSuperior (h
 
 ![pic 3](https://github.com/filipesag/dsmovie/blob/main/dsmovie-dominio.jpg)
 
-## Tecnologies - Backend
+## Technologies - Backend
 
 - Java
 - Spring Boot
 - JPA/Hibernate
 - Maven
 
-## Tecnologies - Frontend
+## Technologies - Frontend
 
 - HTML/CSS/Bootstrap
 - JavaScript/TypeScript
